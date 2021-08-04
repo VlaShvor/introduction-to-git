@@ -1,3 +1,3 @@
 # Git and Github
 
-Git
+Git_course_training
